@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-uk!sbc2^o&8f0@@r-eq%5ju5i8e#g9!nrk8p%9fs6=!r$4@k(r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['stg.axemma.my.id']
 
 X_FRAME_OPTIONS = 'SAMEORIGIN' 
 
